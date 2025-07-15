@@ -48,7 +48,7 @@
 * в автоматическом режиме, если квота по стоимости из указанного договора на организацию обучения израсходована менее, чем на 30%
 * ручное снятие блокировки федеральным оператором.&#x20;
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -58,7 +58,7 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 ## Когда использовать ручное снятие блокировки?
 

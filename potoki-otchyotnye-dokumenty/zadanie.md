@@ -26,7 +26,7 @@
 
 Представитель ФО переходит на страницу потока и в блоке "**Заявки на поток**" нажимает на кнопку "Сгенерировать".
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -44,10 +44,10 @@
 
 :::
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 ### Итоговый документ
 
 После загрузки подписи Образовательного партнера, Задание на поток переходит в статус Подписано с двух сторон и представитель ФО отмечает отмечает его как Зарегистрированное и может скачать итоговый документ - это архив, который содержит бланк задания и два файла с подписями в формате sig федерального оператора и образовательного партнёра.&#x20;
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>

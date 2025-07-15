@@ -6,7 +6,7 @@ description: Подробнее о генерации и статусах
 
 Договор на организацию обучения необходимо занести в систему для дальнейшего использования при составлении договора на программу.
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 Поля, которые необходимо заполнить для генерации договора на организацию обучения:
 
@@ -15,13 +15,13 @@ description: Подробнее о генерации и статусах
 * Квота по слушателям
 * Дата окончания реализации
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ## Подписание договора
 
 После генерации договора его необходимо скачать, подписать электронной подписью и загрузить во Flow **sig файл подписи**. (Подробнее о [подписании документа](../../scenarii/kak-podpisat-elektronnoi-podpisyu/)).
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 ## Статусы договора на организацию обучения
 

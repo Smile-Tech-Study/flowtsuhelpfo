@@ -14,19 +14,19 @@ description: >-
 
 1. После запуска  выбрать "Настраиваемая установка", затем "Далее".
 
-<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 2. Выбрать для "КриптоАРМ" вариант «Этот компонент и его подкомпоненты будут установлены на локальный жесткий диск» и нажать "Далее".
 
-<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 3. Ознакомиться и принять "Лицензионное соглашение".
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 4. После установки нажать "Готово".
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -40,20 +40,20 @@ description: >-
 
 1. Открыть КриптоАРМ (Для КриптоАРМ на рабочем столе будет создан ярлык, необходимо кликнуть по нему).
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 2. В пункте меню "Помощь" установить лицензию.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 3. Прописать лицензионные ключи и нажать "Ок".&#x20;
 4. Выбрать в меню КриптоАРМ "Профили" - "Управление профилями" -"Создать".
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 5\. В пункте «Общие» прописать имя профиля и указать сертификат пользователя с помощью кнопки «Выбрать».
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 6. В пункте "Подпись" установить формат подписи на "Усовершенствованная".&#x20;
 
@@ -63,11 +63,11 @@ description: >-
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 7. В пункте "TSP" в поле "Адрес службы штампов времени" указать адрес службы штампов времени (например, [http://tax4.tensor.ru/tsp/tsp.srf](http://tax4.tensor.ru/tsp/tsp.srf)).
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 8.  В пункте "OCSP" в поле "Адрес сервера" необходимо указать адрес OCSP сервера, указанный указан в свойствах сертификата пользователя.
 
@@ -77,19 +77,19 @@ description: >-
 
     -Скопировать URL.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 -Вставить полученный URL.
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 9. Выбрать в пункте "Профили" созданный профиль "По умолчанию".
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 10. Выполнить настройку в пункте "Режимы" (по желанию - необязательное условие).
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 **Настройка завершена. Поздравляем!**
 
@@ -105,11 +105,11 @@ description: >-
 2. Нажать "Подписать".
 3. Выбрать файл для подписи.
 
-<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 4. Ввести пин-код вашей Электронной подписи и нажмите "ОК".
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 В каталоге на компьютере будет 2 файла:&#x20;
 
@@ -118,7 +118,7 @@ description: >-
 
 &#x20;Файл с открепленной подписью в формате SIG необходимо загрузить во Flow.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
