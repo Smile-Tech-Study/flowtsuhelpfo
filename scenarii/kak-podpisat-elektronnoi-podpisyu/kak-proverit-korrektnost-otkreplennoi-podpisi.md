@@ -18,30 +18,30 @@ description: >-
 
 1. Регистрация.&#x20;
 
-![](<../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (63).png>)
 
 1. Начать использовать
 
-![](<../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (64).png>)
 
 1. Далее следует выбрать пункт "Проверка подписи" и загрузить файл в формате pdf.
 
 &#x20;
 
-![](<../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (65).png>)
 
 4. Далее выбрать файл с sig подписью этого документа&#x20;
 
-![](<../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (66).png>)
 
 4. Нажать "Проверить подпись"
 
-![](<../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (67).png>)
 
 4.  В результате будет один из двух вариантов.\
 
 
-    ![](<../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (68).png>)
 
 В первом варианте  всё хорошо, во втором следует переподписать документ. То есть, скачать бланк и,  **ничего в нем не меняя (не перименовывать бланк, не пересохранять его его тем же названием)**, подписать ещё раз.
 [/tab]
@@ -51,18 +51,18 @@ description: >-
 
 1. Откройте КриптоАРМ и выберите пункт "Проверить ЭП".&#x20;
 
-![](<../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (69).png>)
 
 2. Выберите sig файл подписанного документа и нажмите Finish.
 
-![](<../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (70).png>)
 
 3. Дождитесь проверки.
 
-![](<../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (71).png>)
 
 4. Проверьте детали подписи.
 
-![](<../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (72).png>)
 [/tab]
 {% endtabs %}

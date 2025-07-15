@@ -15,15 +15,15 @@ description: Головной удостоверяющий центр - ГУЦ
 
 1. Через контекстное меню файла сертификата ГУЦ выбрать пункт меню "Установить сертификат".
 
-![](<../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (23).png>)
 
 2. Открыть файл.
 
-![](<../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (24).png>)
 
 3. Выбрать "Текущий пользователь" или "Локальный компьютер" в зависимости от того, должен ли сертификат быть доступен всем пользователям данного компьютера. Нажать "Далее".
 
-![](<../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (25).png>)
 
 :::info
 

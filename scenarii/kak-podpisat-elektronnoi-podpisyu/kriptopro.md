@@ -10,17 +10,17 @@
 
 После успешной установки появится окно «КриптоПро CSP успешно установлен». Нажмите "ОК".
 
-![](<../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (43).png>)
 
 ## Настройка
 
 1. Запустить КриптоПро CSP через меню Пуск (наберите CryptoPRO CSP или КриптоПро CSP).
 
-![](<../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (44).png>)
 
 2. Во вкладке «Общие» нажать кнопку «Ввод лицензии» и ввести лицензионные данные. (Лицензионные данные приходят на электронную почту после приобретения  КриптоПРО).
 
-![](<../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (45).png>)
 
 3. Установка сертификата Головного удостоверяющего центра [(ГУЦ)](sertifikat-guc.md) в локальное хранилище компьютера
 
