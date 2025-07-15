@@ -30,7 +30,8 @@ description: >-
 
 
 
-{% hint style="info" %}
+:::info
+
 **После завершения установки необходимо перезагрузить компьютер.**&#x20;
 
 :::
@@ -117,7 +118,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 Итоговый документ - бланк документа и два файла в формате SIG
 
 :::

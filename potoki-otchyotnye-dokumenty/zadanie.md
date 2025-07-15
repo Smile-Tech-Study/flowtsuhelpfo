@@ -9,7 +9,8 @@
 
 :::
 
-{% hint style="info" %}
+:::info
+
 Статусы заданий на поток:
 
 * Генерация ещё невозможна
@@ -27,7 +28,8 @@
 
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 В Задание попадут только те граждане, у кого есть одобренные документы ДЗС.
 
 :::
