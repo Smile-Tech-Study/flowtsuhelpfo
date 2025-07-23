@@ -1,44 +1,70 @@
-# Table of contents
+---
+title: Содержание
+order: 0.3
+---
 
 ## СПРАВОЧНИКИ
 
-* [Карточка организации](README.md)
-* [Договор на организацию обучения](spravochniki/dogovor-na-organizaciyu-obucheniya/README.md)
-  * [Дополнительное соглашение](spravochniki/dogovor-na-organizaciyu-obucheniya/dopolnitelnoe-soglashenie.md)
-  * [Доп.соглашение к сетевому договору](spravochniki/dogovor-na-organizaciyu-obucheniya/dop.soglashenie-k-setevomu-dogovoru.md)
-* [Предложение о стоимости](spravochniki/predlozhenie-o-stoimosti.md)
-* [Средняя стоимость за программу](spravochniki/srednyaya-stoimost-za-programmu.md)
+-  [Карточка организации](./spravochniki/README)
+
+-  [Договор на организацию обучения](./spravochniki/README-2/_index)
+
+   -  [Дополнительное соглашение](./spravochniki/README-2/dopolnitelnoe-soglashenie)
+
+   -  [Доп.соглашение к сетевому договору](./spravochniki/dogovor-na-organizaciyu-obucheniya/dop.soglashenie-k-setevomu-dogovoru)
+
+-  [Предложение о стоимости](./spravochniki/predlozhenie-o-stoimosti)
+
+-  [Средняя стоимость за программу](./spravochniki/srednyaya-stoimost-za-programmu)
 
 ## ПРОГРАММЫ
 
-* [Работа с программой](programmy/rabota-s-programmoi.md)
-* [Статусы программ](programmy/statusy-programm.md)
-* [Публикация программы](programmy/publikaciya-programmy.md)
-* [Отметка о готовности программ к генерации договора](programmy/otmetka-o-gotovnosti-programm-k-generacii-dogovora.md)
-* [Отображение одобренных программ для РОИВ](programmy/otobrazhenie-odobrennykh-programm-dlya-roiv.md)
+-  [Работа с программой](./programmy/rabota-s-programmoi)
+
+-  [Статусы программ](./programmy/statusy-programm)
+
+-  [Публикация программы](./programmy/publikaciya-programmy)
+
+-  [Отметка о готовности программ к генерации договора](./programmy/otmetka-o-gotovnosti-programm-k-generacii-dogovora)
+
+-  [Отображение одобренных программ для РОИВ](./programmy/otobrazhenie-odobrennykh-programm-dlya-roiv)
 
 ## потоки/отчётные документы
 
-* [Поток](potoki-otchyotnye-dokumenty/potok.md)
-* [Задание](potoki-otchyotnye-dokumenty/zadanie.md)
-* [Журнал регистрации](potoki-otchyotnye-dokumenty/zhurnal-registracii.md)
-* [Акт](potoki-otchyotnye-dokumenty/akt.md)
-* [Отчёт](potoki-otchyotnye-dokumenty/otchyot.md)
+-  [Поток](./potoki-otchyotnye-dokumenty/potok)
+
+-  [Задание](./potoki-otchyotnye-dokumenty/zadanie)
+
+-  [Журнал регистрации](./potoki-otchyotnye-dokumenty/zhurnal-registracii)
+
+-  [Акт](./potoki-otchyotnye-dokumenty/akt)
+
+-  [Отчёт](./potoki-otchyotnye-dokumenty/otchyot)
 
 ## СЦЕНАРИИ
 
-* [Как подписать электронной подписью?](scenarii/kak-podpisat-elektronnoi-podpisyu/README.md)
-  * [КриптоПРО](scenarii/kak-podpisat-elektronnoi-podpisyu/kriptopro.md)
-  * [КриптоАРМ](scenarii/kak-podpisat-elektronnoi-podpisyu/kriptoarm.md)
-  * [Сертификат ГУЦ](scenarii/kak-podpisat-elektronnoi-podpisyu/sertifikat-guc.md)
-  * [Как проверить корректность открепленной подписи](scenarii/kak-podpisat-elektronnoi-podpisyu/kak-proverit-korrektnost-otkreplennoi-podpisi.md)
-* [Глобальный поиск](scenarii/globalnyi-poisk.md)
-* [Как войти с Яндекс.Ключ](scenarii/kak-voiti-s-yandeks.klyuch.md)
-* [Как сделать рассылку?](scenarii/kak-sdelat-rassylku.md)
+-  [Как подписать электронной подписью?](./scenarii/kak-podpisat-elektronnoi-podpisyu/README)
+
+   -  [КриптоПРО](./scenarii/kak-podpisat-elektronnoi-podpisyu/kriptopro)
+
+   -  [КриптоАРМ](./scenarii/kak-podpisat-elektronnoi-podpisyu/kriptoarm)
+
+   -  [Сертификат ГУЦ](./scenarii/kak-podpisat-elektronnoi-podpisyu/sertifikat-guc)
+
+   -  [Как проверить корректность открепленной подписи](./scenarii/kak-podpisat-elektronnoi-podpisyu/kak-proverit-korrektnost-otkreplennoi-podpisi)
+
+-  [Глобальный поиск](./scenarii/globalnyi-poisk)
+
+-  [Как войти с Яндекс.Ключ](./scenarii/kak-voiti-s-yandeks.klyuch)
+
+-  [Как сделать рассылку?](./scenarii/kak-sdelat-rassylku)
 
 ## Справки
 
-* [ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
-* [Образовательный партнёр](https://informa.gitbook.io/flow-partner/)
-* [ЦЗН](https://informa.gitbook.io/flow-lichnyi-kabinet-szn/)
-* [Инструкции Работа России](spravki/instrukcii-rabota-rossii.md)
+-  [ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
+
+-  [Образовательный партнёр](https://informa.gitbook.io/flow-partner/)
+
+-  [ЦЗН](https://informa.gitbook.io/flow-lichnyi-kabinet-szn/)
+
+-  [Инструкции Работа России](./spravki/instrukcii-rabota-rossii)
