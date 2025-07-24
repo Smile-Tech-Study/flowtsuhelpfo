@@ -11,7 +11,7 @@ order: 0.3
 
    -  [Дополнительное соглашение](./spravochniki/README-2/dopolnitelnoe-soglashenie)
 
-   -  [Доп.соглашение к сетевому договору](./spravochniki/dogovor-na-organizaciyu-obucheniya/dop.soglashenie-k-setevomu-dogovoru)
+   -  [Доп.соглашение к сетевому договору](./spravochniki/README-2/dop.soglashenie-k-setevomu-dogovoru)
 
 -  [Предложение о стоимости](./spravochniki/predlozhenie-o-stoimosti)
 
@@ -43,15 +43,15 @@ order: 0.3
 
 ## СЦЕНАРИИ
 
--  [Как подписать электронной подписью?](./scenarii/kak-podpisat-elektronnoi-podpisyu/README)
+-  [Как подписать электронной подписью?](./scenarii/README/_index)
 
-   -  [КриптоПРО](./scenarii/kak-podpisat-elektronnoi-podpisyu/kriptopro)
+   -  [КриптоПРО](./scenarii/README/kriptopro)
 
-   -  [КриптоАРМ](./scenarii/kak-podpisat-elektronnoi-podpisyu/kriptoarm)
+   -  [КриптоАРМ](./scenarii/README/kriptoarm)
 
-   -  [Сертификат ГУЦ](./scenarii/kak-podpisat-elektronnoi-podpisyu/sertifikat-guc)
+   -  [Сертификат ГУЦ](./scenarii/README/sertifikat-guc)
 
-   -  [Как проверить корректность открепленной подписи](./scenarii/kak-podpisat-elektronnoi-podpisyu/kak-proverit-korrektnost-otkreplennoi-podpisi)
+   -  [Как проверить корректность открепленной подписи](./scenarii/README/kak-proverit-korrektnost-otkreplennoi-podpisi)
 
 -  [Глобальный поиск](./scenarii/globalnyi-poisk)
 
@@ -61,10 +61,10 @@ order: 0.3
 
 ## Справки
 
--  [ЛК гражданина](https://informa.gitbook.io/flow-kabinet-grazhdanina/)
+-  ЛК гражданина
 
--  [Образовательный партнёр](https://informa.gitbook.io/flow-partner/)
+-  [Образовательный партнёр](https://gramax.smile-tech.study/Flow_TSU_OP_help)
 
--  [ЦЗН](https://informa.gitbook.io/flow-lichnyi-kabinet-szn/)
+-  [ЦЗН](https://gramax.smile-tech.study/Flow_TSU_-CZN_help)
 
 -  [Инструкции Работа России](./spravki/instrukcii-rabota-rossii)
