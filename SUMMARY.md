@@ -61,7 +61,7 @@ order: 0.3
 
 ## Справки
 
--  ЛК гражданина
+-  [ЛК гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
 
 -  [Образовательный партнёр](https://gramax.smile-tech.study/Flow_TSU_OP_help)
 
