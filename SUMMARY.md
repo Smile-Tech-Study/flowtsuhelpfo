@@ -11,7 +11,7 @@ order: 0.3
 
    -  [Дополнительное соглашение](./spravochniki/README-2/dopolnitelnoe-soglashenie)
 
-   -  [Доп.соглашение к сетевому договору](./spravochniki/README-2/dop.soglashenie-k-setevomu-dogovoru)
+   -  [Доп.соглашение к сетевому договору](https://www.flow-crm.study/flowtsuhelpfo/spravochniki/README-2/dop.soglashenie-k-setevomu-dogovoru)
 
 -  [Предложение о стоимости](./spravochniki/predlozhenie-o-stoimosti)
 
@@ -68,5 +68,3 @@ order: 0.3
 -  [ЦЗН](https://www.flow-crm.study/flowtsuhelpczn)
 
 -  [Инструкции Работа России](./spravki/instrukcii-rabota-rossii)
-
-
