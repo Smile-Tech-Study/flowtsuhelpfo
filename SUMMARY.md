@@ -55,16 +55,18 @@ order: 0.3
 
 -  [Глобальный поиск](./scenarii/globalnyi-poisk)
 
--  [Как войти с Яндекс.Ключ](./scenarii/kak-voiti-s-yandeks.klyuch)
+-  [Как войти с Яндекс ID](https://www.flow-crm.study/flowtsuhelpfo/scenarii/kak-voiti-s-yandeks.klyuch)
 
 -  [Как сделать рассылку?](./scenarii/kak-sdelat-rassylku)
 
 ## Справки
 
--  [ЛК гражданина](https://gramax.smile-tech.study/Flow_TSU_GR_help)
+-  [ЛК гражданина](https://www.flow-crm.study/flowtsuhelpgr)
 
--  [Образовательный партнёр](https://gramax.smile-tech.study/Flow_TSU_OP_help)
+-  [Образовательный партнёр](https://www.flow-crm.study/flowtsuhelpop)
 
--  [ЦЗН](https://gramax.smile-tech.study/Flow_TSU_-CZN_help)
+-  [ЦЗН](https://www.flow-crm.study/flowtsuhelpczn)
 
 -  [Инструкции Работа России](./spravki/instrukcii-rabota-rossii)
+
+
